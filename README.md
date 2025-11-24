@@ -1,5 +1,3 @@
-md
-
 📊 Customer Sales Data Analysis Project
 
 A complete end-to-end Data Analysis Project using Python, Pandas, Matplotlib, and Seaborn.
