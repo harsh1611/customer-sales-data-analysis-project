@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,TotalPrice,Region
+1001,C001,2024-10-01,Electronics,Laptop,1,1200.00,1200.00,North
+1002,C002,2024-10-01,Books,Novel,2,15.50,31.00,South
+1003,C001,2024-10-02,Home Goods,Coffee Maker,1,75.00,75.00,North
+1004,C003,2024-10-03,Electronics,Smartphone,1,800.00,800.00,West
+1005,C004,2024-10-04,Books,Textbook,1,50.00,50.00,East
+1006,C002,2024-10-05,Home Goods,Blender,1,45.00,45.00,South
+1007,C005,2024-10-06,Electronics,Headphones,2,100.00,200.00,North
+1008,C003,2024-10-07,Books,Magazine,3,5.00,15.00,West
+1009,C001,2024-10-08,Home Goods,Toaster,1,30.00,30.00,North
+1010,C004,2024-10-09,Electronics,Tablet,1,400.00,400.00,East
